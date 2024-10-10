@@ -1,0 +1,9 @@
+example1_columns:
+  Id: LongType
+  FirstName: StringType
+  LastName: StringType
+
+example2_columns:
+  Id: LongType
+  Age: IntegerType
+  Location: StringType
